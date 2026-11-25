@@ -57,7 +57,7 @@ dotnet run
 
 - For general product questions, visit the [Syncfusion Community Forum](https://www.syncfusion.com/forums) or [Syncfusion Support](https://www.syncfusion.com/support).
 - To report an issue specific to this sample, open a GitHub issue in this repository.
-- For implementation details, see the [relevant official Syncfusion documentation](https://blazor.syncfusion.com/documentation/smith-chart/getting-started).
+- For implementation details, see the [relevant official Syncfusion documentation](https://help.syncfusion.com/chart-sdk/blazor/smith-chart/getting-started-webapp).
 
 ## License
 
