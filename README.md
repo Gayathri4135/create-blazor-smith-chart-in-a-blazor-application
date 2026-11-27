@@ -38,20 +38,24 @@ This sample demonstrates how to create and configure a Syncfusion [Blazor Smith 
 
 1. Open the repository folder in Visual Studio Code.
 2. Open the integrated terminal.
-3. Navigate to the startup project directory for the hosted application.
+3. Navigate to the `CreatingSmithChartSample` project directory.
+
+```bash
+cd CreatingSmithChartSample
+```
+4. Restore project dependencies:
 
 ```bash
 dotnet restore
+```
+
+5. Run the application:
+
+```bash
 dotnet run
 ```
 
-4. Open the local URL displayed in the terminal after the application starts.
-
-## Project Structure
-
-- `CreatingSmithChartSample.sln` — Visual Studio solution file for the sample.
-
-- `Pages/Index.razor` — Main sample page that renders the `SfSmithChart` component, configures the chart title, legend, series definitions, markers, data labels, tooltips, and sample data collections.
+6. Open the URL displayed in the terminal after the application starts.
 
 ## Support and Feedback
 
