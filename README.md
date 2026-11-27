@@ -43,6 +43,7 @@ This sample demonstrates how to create and configure a Syncfusion [Blazor Smith 
 ```bash
 cd CreatingSmithChartSample
 ```
+
 4. Restore project dependencies:
 
 ```bash
